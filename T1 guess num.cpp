@@ -1,6 +1,6 @@
 #include <iostream>
-#include <cstdlib>   // For rand() and srand()
-#include <ctime>     // For time()
+#include <cstdlib>   //For rand() and srand()
+#include <ctime>     //For time()
 
 int main() {
     // Seed the random number generator
